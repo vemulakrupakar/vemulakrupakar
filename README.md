@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vemula Krupakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1ALi_ZxqBFN2on_fji7Jee&ust=1725558568993000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj30-7sqYgDFQAAAAAdAAAAABAK">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=Animated+Coding++images&client=firefox-b-d&sca_esv=c9a915b7e2353e00&sca_upv=1&udm=2&biw=1536&bih=749&sxsrf=ADLYWILATq7Ab1m336FKFgyrQr05qdRMAw%3A1725472165888&ei=pZ3YZsT0NeGQ4-EP8q6YwAQ&ved=0ahUKEwiE25Hc7KmIAxVhyDgGHXIXBkgQ4dUDCBE&uact=5&oq=Animated+Coding++images&gs_lp=Egxnd3Mtd2l6LXNlcnAiF0FuaW1hdGVkIENvZGluZyAgaW1hZ2VzMgUQABiABDIGEAAYCBgeMgcQABiABBgYSPVSUPYHWOhMcAF4AJABAJgBggKgAfwTqgEGMC4xMi4zuAEDyAEA-AEBmAIQoAK3FcICBBAjGCfCAgQQABgemAMAiAYBkgcGMS4xMi4zoAeYOw&sclient=gws-wiz-serp#imgrc=Krpy16CZI6PaVM&imgdii=nsgniT6N72tppM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vemulakrupakar&label=Profile%20views&color=0e75b6&style=flat" alt="vemulakrupakar" /> </p>
 
